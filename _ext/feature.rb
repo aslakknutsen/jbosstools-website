@@ -1,3 +1,5 @@
+require 'hpricot'
+
 module Awestruct
   module Extensions
     module Feature
